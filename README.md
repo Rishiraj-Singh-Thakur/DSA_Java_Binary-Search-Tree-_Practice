@@ -1,3 +1,5 @@
+Check my code in (name.java) file;
+
 # 🌳 Binary Search Tree (BST) Practice – Java
 
 This repository contains my **Binary Search Tree (BST) practice codes in Java**.  
@@ -15,12 +17,12 @@ The goal is to understand **BST properties**, **recursion**, and **efficient sea
 - Balanced BST (from sorted array)
 - Lowest Common Ancestor (LCA)
 - BST-related problem solving
-
+And all types of mediam and hard problems :
 ---
 
 ## 🛠️ Tech Stack
 - Language: **Java**
-- Concepts: **DSA, BST, Recursion**
+- Concepts: BST, Recursion**
 
 ---
 
